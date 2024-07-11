@@ -4,14 +4,14 @@
   "id": "baritone-meteor",
   "version": "${version}",
 
-  "name": "Baritone",
-  "description": "Google Maps for Blockgame",
+  "name": "nyx",
+  "description": "maps",
   "authors": [
     "leijurv", "Brady"
   ],
   "contact": {
-    "homepage": "https://github.com/cabaletta/baritone",
-    "sources": "https://github.com/cabaletta/baritone"
+    "homepage": "https://github.com/anuselessorganization/baritone",
+    "sources": "https://github.com/anuselessorganization/baritone"
   },
 
   "license": "LGPL-3.0",
